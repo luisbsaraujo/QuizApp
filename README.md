@@ -19,9 +19,12 @@ Requirements:
 
 # More Info
 Name of the app: Quiz App
+
 Motivation: Users can test their knowledge about what they are studying and recognize where a best effort on learning process is needed.
 Similar Apps in Android: “94%”, HQ Trivia, Logo Game, Popcorn Trivia, Quizoid, Trivia Only
-Feature Specifications:
+
+Specifications:
+
 •	Google Login integration
 •	Database with DBHelper
 •	Statistics graph with GraphView
