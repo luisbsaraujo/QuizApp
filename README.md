@@ -1,7 +1,7 @@
 # QuizApp
-A Quiz JAVA Android App
-This is the Final Project for Introduction to Mobile Application Development
-Students: Luis Araujo, Pedro Rendon
+A Quiz JAVA Android App  
+This is the Final Project for Introduction to Mobile Application Development  
+Students: Luis Araujo, Pedro Rendon  
 
 # Info
 Quiz App Version 10.0 - 11/26/2019
